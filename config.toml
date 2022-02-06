@@ -55,7 +55,7 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "Adil Leghari's Personal Site"
   keywords = ""
   images = [""]
 
@@ -94,7 +94,7 @@ disableHugoGeneratorInject = false
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -129,8 +129,8 @@ disableHugoGeneratorInject = false
     theme = "#1b1c1d"
 
   [params.logo]
-    logoMark     = ">"
-    logoText     = "$ cd /home/"
+    logoMark     = ">_"
+    logoText     = "$ adilio.io"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -155,7 +155,7 @@ disableHugoGeneratorInject = false
  [params.portrait]
    path     = "/img/image.jpg"
    alt      = "Portrait"
-   maxWidth = "240px"
+   maxWidth = "300px"
 
   # Social icons
   [[params.social]]
@@ -178,11 +178,6 @@ disableHugoGeneratorInject = false
   [languages.en]
     subtitle  = "Adil Leghari's Personal Site"
     weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-  [languages.fr]
-    subtitle  = "Adil Leghari's Personal Site"
-    weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
