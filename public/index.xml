@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adilio.io</title>
+    <link>https://adilio.io/</link>
+    <description>Recent content on adilio.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 05 Feb 2022 12:44:31 -0800</lastBuildDate><atom:link href="https://adilio.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, Friend</title>
+      <link>https://adilio.io/posts/2022/02/hello-friend/</link>
+      <pubDate>Sat, 05 Feb 2022 12:44:31 -0800</pubDate>
+      
+      <guid>https://adilio.io/posts/2022/02/hello-friend/</guid>
+      <description>Hello, Friend. I am Adil.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://adilio.io/about/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adilio.io/about/</guid>
+      <description>Hiya! I&amp;rsquo;m Adil, and I&amp;rsquo;m a Manager of Solution Architecture at Cloudsmith. Before that, I was a Senior Solutions Engineer for Chocolatey. So it&amp;rsquo;s fair to say I&amp;rsquo;ve spent a few years in the Package Management space. Previously, I spent over a decade as a SysAdmin at The University of British Columbia.
+I am SUPER passionate about Automation. I&amp;rsquo;ve been an active member of the PowerShell DevOps/Automation Community for the past 5 years, and I have a passion for problem-solving and helping others.</description>
+    </item>
+    
+  </channel>
+</rss>

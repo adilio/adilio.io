@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on adilio.io</title>
+    <link>https://adilio.io/tags/</link>
+    <description>Recent content in Tags on adilio.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 05 Feb 2022 12:44:31 -0800</lastBuildDate><atom:link href="https://adilio.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>welcome</title>
+      <link>https://adilio.io/tags/welcome/</link>
+      <pubDate>Sat, 05 Feb 2022 12:44:31 -0800</pubDate>
+      
+      <guid>https://adilio.io/tags/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
